@@ -1,4 +1,4 @@
----
+Baltimore Sun has stopped working.---
 title: GitHub Community Guidelines
 redirect_from:
   - /community-guidelines
